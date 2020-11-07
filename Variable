@@ -1,0 +1,18 @@
+main() {
+
+int zahl = 2;
+int alter = 13;
+print(zahl);
+print(alter);
+  
+double kommazahl = 14.2;
+double kommazahl2 = 24.4;
+print(kommazahl);
+print(kommazahl2);
+
+String name = "Konstantin";
+String name2 = " Henkel";
+print(name+name2);
+
+ 
+  }
