@@ -1,0 +1,13 @@
+main(){
+ int zahlengrenze = 65;
+ if(zahlengrenze > 10){
+   print("Zahlengrenze ist größer als 10!");
+   
+ }else{
+   print("Zahlengrenze ist kleiner als 10!");
+ }
+String zahlengrenzeaktuell = zahlengrenze > 10 ? "Zahlengrenze ist größer als 10!" : "Zahlengrenze ist kleiner als 10!";//Ternärer Operator
+  
+ print(zahlengrenzeaktuell);
+
+}
