@@ -1,0 +1,10 @@
+main(){
+ int zahl = 23;
+ zahl = zahl + 6;
+ print(zahl);
+ zahl = zahl * 4;
+ print(zahl);
+  
+ zahl++;
+ print(zahl);
+  }
