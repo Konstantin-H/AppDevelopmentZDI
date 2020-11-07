@@ -1,0 +1,11 @@
+main(){
+  String meinName = "Konstantin";
+  print("Mein Name ist $meinName");//Interpolation
+  
+  double kommazahl = 23.8;
+  String zahlenwert = kommazahl.toString();//Casting
+  print("Das Ergebnis ist $zahlenwert");//Interpolation
+  
+  int anzahlDerZeichen = meinName.length;
+  print("Die Anzahl der Zeichen in meinem Namen beträgt $anzahlDerZeichen");
+}
